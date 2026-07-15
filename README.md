@@ -1,154 +1,175 @@
-# 👋 Hi, I'm Sankar
+<div align="center">
 
-### 🎯 Aspiring Technical Support Engineer | Data Analyst
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0061FF,50:00C9FF,100:00FF87&height=220&section=header&text=Sankar%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Technical%20Support%20Engineer%20%7C%20Data%20Analyst&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-Bachelor of Computer Applications (BCA) graduate passionate about solving technical problems, supporting users, and turning data into meaningful insights. I'm continuously improving my skills in SQL, Power BI, Excel, and Python fundamentals while building practical projects.
+<a href="https://github.com/S-Sankar02">
+  <img src="https://img.shields.io/badge/GitHub-S--Sankar02-0061FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/s-sankar12">
+  <img src="https://img.shields.io/badge/LinkedIn-Sankar%20S-00C9FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=S-Sankar02&style=for-the-badge&color=00FF87&label=PROFILE+VIEWS&labelColor=0D1117" />
 
---- 
+<br/><br/>
 
-## 👨‍💻 About Me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=BCA+Graduate+%7C+Aspiring+Data+Analyst;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Excel+%E2%80%A2+Python;Turning+Raw+Data+into+Clear+Decisions;Always+Learning.+Always+Building." alt="Typing SVG" />
+</a>
 
-- 🎓 Bachelor of Computer Applications (BCA)
-- 💼 Interested in Technical Support, Application Support & Data Analytics
-- 📊 Learning SQL, Power BI, Excel and Python
-- 🛠️ Enjoy troubleshooting, problem solving and continuous learning
-- 🌱 Always exploring new technologies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0061FF,100:00FF87&height=3&width=1000" width="100%"/>
 
----
+</div>
 
-## 💻 Technical Skills
+<br/>
 
-### Operating Systems
-- Windows
-- Linux (Basics)
+## &nbsp;👋&nbsp; About Me
 
-### Databases
-- SQL
-- MySQL
-- MongoDB
+<img align="right" width="290" src="https://raw.githubusercontent.com/ChinmayVaidya/ChinmayVaidya/master/img/coding.gif" />
 
-### Data Analytics
-- Microsoft Excel
-- Power BI
+```yaml
+name: Sankar S
+role: Aspiring Technical Support Engineer & Data Analyst
+education: Bachelor of Computer Applications (BCA)
+focus: [SQL, Power BI, Excel, Python fundamentals]
+mindset: "Every challenge is an opportunity to learn, improve, and grow."
+```
 
-### Programming
-- Python (Basics)
-- Java (Basics)
-- JavaScript (Basics)
+- 🎓&nbsp; **Education** — Bachelor of Computer Applications (BCA)
+- 💼&nbsp; **Interested in** — Technical Support · Application Support · Data Analytics
+- 📊&nbsp; **Currently sharpening** — SQL, Power BI, Excel & Python
+- 🛠️&nbsp; **I enjoy** — troubleshooting, structured problem-solving & continuous learning
+- 🌱&nbsp; **Always exploring** new tools and technologies
+- 🎯&nbsp; **Goal** — a role as Technical Support Engineer, Application Support Engineer, IT Support Executive, or Entry-Level Data Analyst
 
-### Web Technologies
-- HTML5
-- CSS3
-- Bootstrap
+<br clear="right"/>
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- MySQL Workbench
-- MongoDB Compass
+## &nbsp;🧰&nbsp; Tech Stack
 
----
+<div align="center">
 
-## 📂 Projects
+**Programming & Web**
+
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css,bootstrap&theme=dark" />
+
+**Data & Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+<img src="https://img.shields.io/badge/Power_BI-00C9FF?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-00FF87?style=for-the-badge&logo=microsoftexcel&logoColor=black" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,windows&theme=dark" />
+
+</div>
+
+## &nbsp;📈&nbsp; GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=S-Sankar02&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Sankar02&hide_border=true&background=0D1117&ring=00C9FF&fire=00FF87&currStreakLabel=00FF87&sideNums=00C9FF&sideLabels=c9d1d9&dates=8b949e&stroke=0D1117" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Sankar02&layout=compact&hide_border=true&langs_count=8&title_color=00FF87&text_color=c9d1d9&bg_color=0D1117" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Sankar02&hide_border=true&bg_color=0D1117&color=00C9FF&line=00FF87&point=ffffff&area=true&area_color=00C9FF" width="95%"/>
+
+</div>
+
+## &nbsp;📂&nbsp; Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### 🤖 AI Resume Builder
+Academic project built with **Flask** & **MySQL**.
 
-Academic project developed using Flask and MySQL.
-
-**Key Features**
-
-- Resume Builder
-- Portfolio Builder
+- Resume & Portfolio Builder
 - ATS Resume Checker
 - Cover Letter Generator
-- PDF Export
-- User Authentication
+- PDF Export & User Authentication
 
----
+</td>
+<td width="33%" valign="top">
 
 ### 🌐 Portfolio Builder
+A responsive web application for creating professional developer portfolios.
 
-Responsive web application for creating professional portfolios.
+[![View Repo](https://img.shields.io/badge/View-Repo-00C9FF?style=flat-square&logo=github&logoColor=black)](https://github.com/S-Sankar02/Resume-builder-Portfolio)
 
----
+</td>
+<td width="33%" valign="top">
 
 ### 📊 Power BI Dashboard
+Interactive dashboards built for data visualization and business reporting.
 
-Interactive dashboards for data visualization and business reporting.
+</td>
+</tr>
+</table>
 
----
+</div>
 
-## 📜 Certifications
+## &nbsp;📜&nbsp; Certifications & Learning
 
-- AICTE Internship – Front-End Web Development
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🏅 Certifications**
+- AICTE Internship — Front-End Web Development
 - Edunet Foundation Internship
 - Power BI Workshop
 - Business Analyst Workshop
 - NSS Volunteer
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🌱 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Microsoft Excel
-- Data Visualization
-- Technical Support
-- Application Support
+**🌱 Currently Learning**
+- Advanced SQL & Data Visualization
+- Power BI · Microsoft Excel
+- Technical Support & Application Support
 - IT Service Management
 
----
+</td>
+</tr>
+</table>
 
-## 🎯 Career Objective
-
-Seeking opportunities as a Technical Support Engineer, Application Support Engineer, IT Support Executive, or Entry-Level Data Analyst where I can contribute, learn, and grow professionally.
-
----
-
-## 🤝 Soft Skills
-
-- Problem Solving
-- Technical Troubleshooting
-- Communication
-- Team Collaboration
-- Documentation
-- Time Management
-- Adaptability
-- Continuous Learning
-
----
-
-## 🌐 Connect With Me
-
-**GitHub**
-
-➡️ https://github.com/S-Sankar02
-
-**LinkedIn**
-
-➡️ https://www.linkedin.com/in/s-sankar12
-
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Sankar02&show_icons=true&rank_icon=github&theme=transparent&hide_border=true)
-
----
-
-## 💬 Quote
-
-> "Every challenge is an opportunity to learn, improve, and grow."
-
----
+## &nbsp;🤝&nbsp; Soft Skills
 
 <div align="center">
 
-### ⭐ Thank you for visiting my GitHub profile!
+<img src="https://img.shields.io/badge/Problem_Solving-0061FF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Troubleshooting-0072FF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Communication-00A3FF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Team_Collaboration-00C9FF?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Documentation-00E0B8?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Time_Management-00F5A0?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Adaptability-00FF87?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Continuous_Learning-6BFFB0?style=flat-square&logoColor=black" />
 
-If you find my projects helpful, feel free to explore my repositories and connect with me on LinkedIn.
+</div>
+
+## &nbsp;📬&nbsp; Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/s-sankar12">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-00C9FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+<a href="https://github.com/S-Sankar02">
+  <img src="https://img.shields.io/badge/Follow_on_GitHub-0061FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> *"Every challenge is an opportunity to learn, improve, and grow."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:00C9FF,100:0061FF&height=120&section=footer" width="100%"/>
 
 </div>
