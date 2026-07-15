@@ -4,7 +4,7 @@
 
 Bachelor of Computer Applications (BCA) graduate passionate about solving technical problems, supporting users, and turning data into meaningful insights. I'm continuously improving my skills in SQL, Power BI, Excel, and Python fundamentals while building practical projects.
 
----
+--- 
 
 ## 👨‍💻 About Me
 
