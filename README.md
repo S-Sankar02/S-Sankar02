@@ -78,47 +78,75 @@ mindset: "Every challenge is an opportunity to learn, improve, and grow."
 
 ## &nbsp;📂&nbsp; Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/S-Sankar02/Resume-builder-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=Resume-builder-Portfolio&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
-</a>
-<a href="https://github.com/S-Sankar02/Power-Bi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=Power-Bi&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
-</a>
-<a href="https://github.com/S-Sankar02/travel-explorer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=travel-explorer&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
-</a>
-<a href="https://github.com/S-Sankar02/FUTURE_FS_02">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=FUTURE_FS_02&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
-</a>
-<a href="https://github.com/S-Sankar02/FUTURE_FS_01">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=FUTURE_FS_01&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
-</a>
-<a href="https://github.com/S-Sankar02/CURD-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=CURD-&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
-</a>
-<a href="https://github.com/S-Sankar02/IOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=IOT&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
-</a>
+**🤖 [Resume-builder-Portfolio](https://github.com/S-Sankar02/Resume-builder-Portfolio)**
+<br/><img src="https://img.shields.io/badge/Flask-0061FF?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00C9FF?style=flat-square&logo=mysql&logoColor=black"/>
 
-</div>
+AI resume & portfolio builder — ATS checker, cover letter generator, PDF export, and user authentication.
 
-<details>
-<summary align="center"><b>📋 Project details (click to expand)</b></summary>
-<br/>
+</td>
+<td width="50%" valign="top">
 
-| Repo | What it is | Stack |
-|---|---|---|
-| [Resume-builder-Portfolio](https://github.com/S-Sankar02/Resume-builder-Portfolio) | AI resume & portfolio builder — ATS checker, cover letter generator, PDF export, auth | Flask, MySQL, HTML |
-| [Power-Bi](https://github.com/S-Sankar02/Power-Bi) | Global Oil & Gas data analytics dashboard | Power BI |
-| [travel-explorer](https://github.com/S-Sankar02/travel-explorer) | Travel explorer website | JavaScript |
-| [FUTURE_FS_02](https://github.com/S-Sankar02/FUTURE_FS_02) | E-commerce web app | JavaScript |
-| [FUTURE_FS_01](https://github.com/S-Sankar02/FUTURE_FS_01) | Personal portfolio site | CSS |
-| [CURD-](https://github.com/S-Sankar02/CURD-) | CRUD operations using Flask + MySQL | Flask, MySQL, HTML |
-| [IOT](https://github.com/S-Sankar02/IOT) | Real-time water level monitoring system | IoT, HTML |
+**📊 [Power-Bi](https://github.com/S-Sankar02/Power-Bi)**
+<br/><img src="https://img.shields.io/badge/Power_BI-00FF87?style=flat-square&logo=powerbi&logoColor=black"/>
 
-</details>
+Global Oil & Gas data analytics dashboard built for business reporting.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**✈️ [travel-explorer](https://github.com/S-Sankar02/travel-explorer)**
+<br/><img src="https://img.shields.io/badge/JavaScript-0072FF?style=flat-square&logo=javascript&logoColor=white"/>
+
+A travel explorer website for browsing destinations.
+
+</td>
+<td width="50%" valign="top">
+
+**🛒 [FUTURE_FS_02](https://github.com/S-Sankar02/FUTURE_FS_02)**
+<br/><img src="https://img.shields.io/badge/JavaScript-00A3FF?style=flat-square&logo=javascript&logoColor=white"/>
+
+E-commerce web application built as part of a full-stack internship task.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 [FUTURE_FS_01](https://github.com/S-Sankar02/FUTURE_FS_01)**
+<br/><img src="https://img.shields.io/badge/CSS-00E0B8?style=flat-square&logo=css3&logoColor=black"/>
+
+A personal portfolio website.
+
+</td>
+<td width="50%" valign="top">
+
+**🗄️ [CURD-](https://github.com/S-Sankar02/CURD-)**
+<br/><img src="https://img.shields.io/badge/Flask-00F5A0?style=flat-square&logo=flask&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-6BFFB0?style=flat-square&logo=mysql&logoColor=black"/>
+
+CRUD operations built using Flask and MySQL.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🌊 [IOT](https://github.com/S-Sankar02/IOT)**
+<br/><img src="https://img.shields.io/badge/IoT-00C9FF?style=flat-square&logoColor=white"/>
+
+Real-time water level monitoring system.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ## &nbsp;📜&nbsp; Certifications & Learning
 
@@ -181,3 +209,4 @@ mindset: "Every challenge is an opportunity to learn, improve, and grow."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:00C9FF,100:0061FF&height=120&section=footer" width="100%"/>
 
 </div>
+
