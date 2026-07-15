@@ -80,37 +80,45 @@ mindset: "Every challenge is an opportunity to learn, improve, and grow."
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🤖 AI Resume Builder
-Academic project built with **Flask** & **MySQL**.
-
-- Resume & Portfolio Builder
-- ATS Resume Checker
-- Cover Letter Generator
-- PDF Export & User Authentication
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 Portfolio Builder
-A responsive web application for creating professional developer portfolios.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-00C9FF?style=flat-square&logo=github&logoColor=black)](https://github.com/S-Sankar02/Resume-builder-Portfolio)
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 Power BI Dashboard
-Interactive dashboards built for data visualization and business reporting.
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/S-Sankar02/Resume-builder-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=Resume-builder-Portfolio&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
+</a>
+<a href="https://github.com/S-Sankar02/Power-Bi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=Power-Bi&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
+</a>
+<a href="https://github.com/S-Sankar02/travel-explorer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=travel-explorer&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
+</a>
+<a href="https://github.com/S-Sankar02/FUTURE_FS_02">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=FUTURE_FS_02&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
+</a>
+<a href="https://github.com/S-Sankar02/FUTURE_FS_01">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=FUTURE_FS_01&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
+</a>
+<a href="https://github.com/S-Sankar02/CURD-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=CURD-&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
+</a>
+<a href="https://github.com/S-Sankar02/IOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=S-Sankar02&repo=IOT&hide_border=true&title_color=00FF87&icon_color=00C9FF&text_color=c9d1d9&bg_color=0D1117" />
+</a>
 
 </div>
+
+<details>
+<summary align="center"><b>📋 Project details (click to expand)</b></summary>
+<br/>
+
+| Repo | What it is | Stack |
+|---|---|---|
+| [Resume-builder-Portfolio](https://github.com/S-Sankar02/Resume-builder-Portfolio) | AI resume & portfolio builder — ATS checker, cover letter generator, PDF export, auth | Flask, MySQL, HTML |
+| [Power-Bi](https://github.com/S-Sankar02/Power-Bi) | Global Oil & Gas data analytics dashboard | Power BI |
+| [travel-explorer](https://github.com/S-Sankar02/travel-explorer) | Travel explorer website | JavaScript |
+| [FUTURE_FS_02](https://github.com/S-Sankar02/FUTURE_FS_02) | E-commerce web app | JavaScript |
+| [FUTURE_FS_01](https://github.com/S-Sankar02/FUTURE_FS_01) | Personal portfolio site | CSS |
+| [CURD-](https://github.com/S-Sankar02/CURD-) | CRUD operations using Flask + MySQL | Flask, MySQL, HTML |
+| [IOT](https://github.com/S-Sankar02/IOT) | Real-time water level monitoring system | IoT, HTML |
+
+</details>
 
 ## &nbsp;📜&nbsp; Certifications & Learning
 
