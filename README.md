@@ -1,82 +1,47 @@
-<h1 align="center">Hi 👋, I'm Sankar</h1>
+# 👋 Hi, I'm Sankar
 
-<h3 align="center">
-Aspiring Technical Support Engineer | Data Analyst | SQL | Power BI | Python Learner
-</h3>
+### 🎯 Aspiring Technical Support Engineer | Data Analyst
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Technical+Support+Engineer;Entry-Level+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
-<p align="center">
-
-<a href="https://github.com/S-Sankar02">
-<img src="https://img.shields.io/github/followers/S-Sankar02?logo=github&style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/s-sankar12">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=S-Sankar02&style=for-the-badge"/>
-
-</p>
+Bachelor of Computer Applications (BCA) graduate passionate about solving technical problems, supporting users, and turning data into meaningful insights. I'm continuously improving my skills in SQL, Power BI, Excel, and Python fundamentals while building practical projects.
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Bachelor of Computer Applications (BCA)
-
-💼 Aspiring **Technical Support Engineer** and **Data Analyst**
-
-I enjoy solving technical problems, learning new technologies, and using data to support better decision-making.
-
-I have gained practical knowledge through academic projects, internships, and self-learning in SQL, Power BI, Excel, Python fundamentals, and web technologies.
-
-Currently looking for opportunities in:
-
-- Technical Support
-- Application Support
-- IT Support
-- Data Analyst
-- MIS Executive
+- 🎓 Bachelor of Computer Applications (BCA)
+- 💼 Interested in Technical Support, Application Support & Data Analytics
+- 📊 Learning SQL, Power BI, Excel and Python
+- 🛠️ Enjoy troubleshooting, problem solving and continuous learning
+- 🌱 Always exploring new technologies
 
 ---
 
-# 🎯 Career Objective
+## 💻 Technical Skills
 
-To start my career in Technical Support or Data Analytics where I can apply my technical knowledge, improve my problem-solving skills, and continue learning while contributing to organizational success.
+### Operating Systems
+- Windows
+- Linux (Basics)
 
----
-
-# 💻 Technical Skills
-
-### Programming
-
-- Python (Basics)
-- Java (Basics)
-- JavaScript (Basics)
-
-### Database
-
+### Databases
 - SQL
 - MySQL
 - MongoDB
 
 ### Data Analytics
-
 - Microsoft Excel
 - Power BI
 
-### Web Technologies
+### Programming
+- Python (Basics)
+- Java (Basics)
+- JavaScript (Basics)
 
+### Web Technologies
 - HTML5
 - CSS3
 - Bootstrap
 
 ### Tools
-
 - Git
 - GitHub
 - VS Code
@@ -86,13 +51,13 @@ To start my career in Technical Support or Data Analytics where I can apply my t
 
 ---
 
-# 📂 Academic Projects
+## 📂 Projects
 
-## AI Resume Builder
+### 🤖 AI Resume Builder
 
-An academic project developed using Flask and MySQL.
+Academic project developed using Flask and MySQL.
 
-### Features
+**Key Features**
 
 - Resume Builder
 - Portfolio Builder
@@ -103,19 +68,19 @@ An academic project developed using Flask and MySQL.
 
 ---
 
-## Portfolio Builder
+### 🌐 Portfolio Builder
 
-A responsive web application for creating professional portfolios.
-
----
-
-## Power BI Dashboard
-
-Created dashboards for data visualization and reporting using Power BI.
+Responsive web application for creating professional portfolios.
 
 ---
 
-# 📜 Certifications
+### 📊 Power BI Dashboard
+
+Interactive dashboards for data visualization and business reporting.
+
+---
+
+## 📜 Certifications
 
 - AICTE Internship – Front-End Web Development
 - Edunet Foundation Internship
@@ -125,114 +90,65 @@ Created dashboards for data visualization and reporting using Power BI.
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Advanced SQL
 - Power BI
-- Excel
+- Microsoft Excel
 - Data Visualization
-- Technical Troubleshooting
-- IT Support Concepts
+- Technical Support
+- Application Support
+- IT Service Management
 
 ---
 
-# 📊 GitHub Statistics
+## 🎯 Career Objective
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=S-Sankar02&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=S-Sankar02&theme=tokyonight"/>
-
-</p>
+Seeking opportunities as a Technical Support Engineer, Application Support Engineer, IT Support Executive, or Entry-Level Data Analyst where I can contribute, learn, and grow professionally.
 
 ---
 
-# 📈 Most Used Languages
+## 🤝 Soft Skills
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Sankar02&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=S-Sankar02&theme=algolia&margin-w=10"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Sankar02&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🛠️ Core Competencies
-
-- Technical Troubleshooting
 - Problem Solving
-- Customer Support
+- Technical Troubleshooting
 - Communication
-- SQL Queries
-- Data Analysis
-- Dashboard Reporting
-- Documentation
-- Continuous Learning
 - Team Collaboration
+- Documentation
+- Time Management
+- Adaptability
+- Continuous Learning
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+**GitHub**
 
-<a href="https://github.com/S-Sankar02">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+➡️ https://github.com/S-Sankar02
 
-<a href="https://www.linkedin.com/in/s-sankar12">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+**LinkedIn**
 
-</p>
-
-**GitHub:**  
-https://github.com/S-Sankar02
-
-**LinkedIn:**  
-https://www.linkedin.com/in/s-sankar12
+➡️ https://www.linkedin.com/in/s-sankar12
 
 ---
 
-# 💬 Quote
+## 📈 GitHub Statistics
 
-> "Learning, improving, and solving problems—one step at a time."
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=S-Sankar02&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S-Sankar02&show_icons=true&rank_icon=github&theme=transparent&hide_border=true)
 
 ---
 
-<h3 align="center">
+## 💬 Quote
 
-⭐ Thank you for visiting my GitHub profile!
+> "Every challenge is an opportunity to learn, improve, and grow."
 
-I'm always eager to learn new technologies and grow professionally.
+---
 
-</h3>
+<div align="center">
+
+### ⭐ Thank you for visiting my GitHub profile!
+
+If you find my projects helpful, feel free to explore my repositories and connect with me on LinkedIn.
+
+</div>
