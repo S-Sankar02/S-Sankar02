@@ -1,117 +1,142 @@
 <h1 align="center">Hi 👋, I'm Sankar</h1>
 
 <h3 align="center">
-Python Developer | Flask Developer | Front-End Developer | AI Enthusiast
+Aspiring Technical Support Engineer | Data Analyst | SQL | Power BI | Python Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;Flask+Developer;AI+Application+Developer;Front-End+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Technical+Support+Engineer;Entry-Level+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<a href="https://github.com/S-Sankar02">
-<img src="https://img.shields.io/github/followers/S-Sankar02?label=Followers&logo=github&style=for-the-badge"/>
-</a>
 
 <a href="https://github.com/S-Sankar02">
-<img src="https://img.shields.io/github/stars/S-Sankar02?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/S-Sankar02?logo=github&style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/s-sankar12">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=S-Sankar02&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=S-Sankar02&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 🎓 Bachelor of Computer Applications (BCA)
 
-💼 Python & Flask Developer
+💼 Aspiring **Technical Support Engineer** and **Data Analyst**
 
-💡 Passionate about AI-powered applications, Full Stack Development and solving real-world problems.
+I enjoy solving technical problems, learning new technologies, and using data to support better decision-making.
 
-🌱 Currently Learning
+I have gained practical knowledge through academic projects, internships, and self-learning in SQL, Power BI, Excel, Python fundamentals, and web technologies.
 
-- Advanced Python
-- Flask
-- REST APIs
-- SQLAlchemy
-- Power BI
-- Machine Learning Basics
+Currently looking for opportunities in:
 
-🎯 Career Goal
-
-To become a Software Engineer specializing in Python, AI and Full Stack Web Development.
+- Technical Support
+- Application Support
+- IT Support
+- Data Analyst
+- MIS Executive
 
 ---
 
-# 🚀 Featured Project
+# 🎯 Career Objective
 
-## 🤖 AI Resume Builder
+To start my career in Technical Support or Data Analytics where I can apply my technical knowledge, improve my problem-solving skills, and continue learning while contributing to organizational success.
 
-A complete AI-powered Resume Builder SaaS developed using Flask.
+---
+
+# 💻 Technical Skills
+
+### Programming
+
+- Python (Basics)
+- Java (Basics)
+- JavaScript (Basics)
+
+### Database
+
+- SQL
+- MySQL
+- MongoDB
+
+### Data Analytics
+
+- Microsoft Excel
+- Power BI
+
+### Web Technologies
+
+- HTML5
+- CSS3
+- Bootstrap
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- MySQL Workbench
+- MongoDB Compass
+
+---
+
+# 📂 Academic Projects
+
+## AI Resume Builder
+
+An academic project developed using Flask and MySQL.
 
 ### Features
 
-- AI Resume Generator
-- AI Portfolio Generator
+- Resume Builder
+- Portfolio Builder
 - ATS Resume Checker
 - Cover Letter Generator
-- PDF Resume Export
-- Authentication System
-- Dashboard
-- Profile Management
-- Modern Responsive UI
-
-### Technologies
-
-- Python
-- Flask
-- SQLAlchemy
-- MySQL
-- Bootstrap
-- HTML
-- CSS
-- JavaScript
-- ReportLab
-
----
-
-## 🌐 Portfolio Builder
-
-Create beautiful developer portfolios with customizable templates.
-
-Features
-
-- Responsive Design
-- Editable Portfolio
 - PDF Export
-- Easy Dashboard
+- User Authentication
 
 ---
 
-## 📊 Data Analytics
+## Portfolio Builder
 
-Working on Power BI dashboards and SQL-based data analysis projects.
-
----
-
-# 💻 Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,java,html,css,js,bootstrap,mysql,mongodb,git,github,vscode,postman"/>
-
-</p>
+A responsive web application for creating professional portfolios.
 
 ---
 
-# 📊 GitHub Stats
+## Power BI Dashboard
+
+Created dashboards for data visualization and reporting using Power BI.
+
+---
+
+# 📜 Certifications
+
+- AICTE Internship – Front-End Web Development
+- Edunet Foundation Internship
+- Power BI Workshop
+- Business Analyst Workshop
+- NSS Volunteer
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Excel
+- Data Visualization
+- Technical Troubleshooting
+- IT Support Concepts
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -137,7 +162,7 @@ Working on Power BI dashboards and SQL-based data analysis projects.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=S-Sankar02&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=S-Sankar02&theme=algolia&margin-w=10"/>
 
 </p>
 
@@ -153,41 +178,22 @@ Working on Power BI dashboards and SQL-based data analysis projects.
 
 ---
 
-# 🛠 Tools I Use
+# 🛠️ Core Competencies
 
-| Category | Tools |
-|-----------|-------|
-| IDE | VS Code |
-| Version Control | Git, GitHub |
-| Database | MySQL, MongoDB |
-| API Testing | Postman |
-| Analytics | Power BI |
-| Design | Bootstrap |
-
----
-
-# 📜 Certifications
-
-- AICTE Internship – Front-End Web Development
-- Edunet Foundation Internship
-- Power BI Workshop
-- Business Analyst Workshop
-- NSS Volunteer
+- Technical Troubleshooting
+- Problem Solving
+- Customer Support
+- Communication
+- SQL Queries
+- Data Analysis
+- Dashboard Reporting
+- Documentation
+- Continuous Learning
+- Team Collaboration
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced Flask
-- REST APIs
-- JWT Authentication
-- AI Integration
-- Deployment
-- Docker Basics
-
----
-
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
@@ -201,21 +207,19 @@ Working on Power BI dashboards and SQL-based data analysis projects.
 
 </p>
 
-GitHub:
+**GitHub:**  
 https://github.com/S-Sankar02
 
-LinkedIn:
+**LinkedIn:**  
 https://www.linkedin.com/in/s-sankar12
 
 ---
 
-# 💡 Quote
+# 💬 Quote
 
-> "Learning never stops. Every project is an opportunity to grow."
+> "Learning, improving, and solving problems—one step at a time."
 
 ---
-
-# 👀 Profile Views
 
 <p align="center">
 
@@ -227,10 +231,8 @@ https://www.linkedin.com/in/s-sankar12
 
 <h3 align="center">
 
-⭐ Thank you for visiting my GitHub Profile ⭐
+⭐ Thank you for visiting my GitHub profile!
 
-If you like my work, don't forget to ⭐ my repositories!
-
-Happy Coding 🚀
+I'm always eager to learn new technologies and grow professionally.
 
 </h3>
