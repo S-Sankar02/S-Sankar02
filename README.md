@@ -78,22 +78,30 @@ mindset: "Every challenge is an opportunity to learn, improve, and grow."
 
 ## &nbsp;📂&nbsp; Featured Projects
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0061FF,100:00FF87&height=3&width=1000" width="100%"/>
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **🤖 [Resume-builder-Portfolio](https://github.com/S-Sankar02/Resume-builder-Portfolio)**
-<br/><img src="https://img.shields.io/badge/Flask-0061FF?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00C9FF?style=flat-square&logo=mysql&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/github/languages/top/S-Sankar02/Resume-builder-Portfolio?style=flat-square&color=00C9FF&labelColor=0D1117"/> <img src="https://img.shields.io/github/last-commit/S-Sankar02/Resume-builder-Portfolio?style=flat-square&color=00FF87&labelColor=0D1117"/>
 
 AI resume & portfolio builder — ATS checker, cover letter generator, PDF export, and user authentication.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-→-0061FF?style=flat-square&logoColor=white)](https://github.com/S-Sankar02/Resume-builder-Portfolio)
 
 </td>
 <td width="50%" valign="top">
 
 **📊 [Power-Bi](https://github.com/S-Sankar02/Power-Bi)**
-<br/><img src="https://img.shields.io/badge/Power_BI-00FF87?style=flat-square&logo=powerbi&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Power_BI-00C9FF?style=flat-square&logo=powerbi&logoColor=black&labelColor=0D1117"/> <img src="https://img.shields.io/github/last-commit/S-Sankar02/Power-Bi?style=flat-square&color=00FF87&labelColor=0D1117"/>
 
 Global Oil & Gas data analytics dashboard built for business reporting.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-→-0061FF?style=flat-square&logoColor=white)](https://github.com/S-Sankar02/Power-Bi)
 
 </td>
 </tr>
@@ -101,17 +109,23 @@ Global Oil & Gas data analytics dashboard built for business reporting.
 <td width="50%" valign="top">
 
 **✈️ [travel-explorer](https://github.com/S-Sankar02/travel-explorer)**
-<br/><img src="https://img.shields.io/badge/JavaScript-0072FF?style=flat-square&logo=javascript&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/github/languages/top/S-Sankar02/travel-explorer?style=flat-square&color=00C9FF&labelColor=0D1117"/> <img src="https://img.shields.io/github/last-commit/S-Sankar02/travel-explorer?style=flat-square&color=00FF87&labelColor=0D1117"/>
 
 A travel explorer website for browsing destinations.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-→-0061FF?style=flat-square&logoColor=white)](https://github.com/S-Sankar02/travel-explorer)
 
 </td>
 <td width="50%" valign="top">
 
 **🛒 [FUTURE_FS_02](https://github.com/S-Sankar02/FUTURE_FS_02)**
-<br/><img src="https://img.shields.io/badge/JavaScript-00A3FF?style=flat-square&logo=javascript&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/github/languages/top/S-Sankar02/FUTURE_FS_02?style=flat-square&color=00C9FF&labelColor=0D1117"/> <img src="https://img.shields.io/github/last-commit/S-Sankar02/FUTURE_FS_02?style=flat-square&color=00FF87&labelColor=0D1117"/>
 
 E-commerce web application built as part of a full-stack internship task.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-→-0061FF?style=flat-square&logoColor=white)](https://github.com/S-Sankar02/FUTURE_FS_02)
 
 </td>
 </tr>
@@ -119,17 +133,23 @@ E-commerce web application built as part of a full-stack internship task.
 <td width="50%" valign="top">
 
 **🌐 [FUTURE_FS_01](https://github.com/S-Sankar02/FUTURE_FS_01)**
-<br/><img src="https://img.shields.io/badge/CSS-00E0B8?style=flat-square&logo=css3&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/github/languages/top/S-Sankar02/FUTURE_FS_01?style=flat-square&color=00C9FF&labelColor=0D1117"/> <img src="https://img.shields.io/github/last-commit/S-Sankar02/FUTURE_FS_01?style=flat-square&color=00FF87&labelColor=0D1117"/>
 
 A personal portfolio website.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-→-0061FF?style=flat-square&logoColor=white)](https://github.com/S-Sankar02/FUTURE_FS_01)
 
 </td>
 <td width="50%" valign="top">
 
 **🗄️ [CURD-](https://github.com/S-Sankar02/CURD-)**
-<br/><img src="https://img.shields.io/badge/Flask-00F5A0?style=flat-square&logo=flask&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-6BFFB0?style=flat-square&logo=mysql&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/github/languages/top/S-Sankar02/CURD-?style=flat-square&color=00C9FF&labelColor=0D1117"/> <img src="https://img.shields.io/github/last-commit/S-Sankar02/CURD-?style=flat-square&color=00FF87&labelColor=0D1117"/>
 
 CRUD operations built using Flask and MySQL.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-→-0061FF?style=flat-square&logoColor=white)](https://github.com/S-Sankar02/CURD-)
 
 </td>
 </tr>
@@ -137,9 +157,12 @@ CRUD operations built using Flask and MySQL.
 <td width="50%" valign="top">
 
 **🌊 [IOT](https://github.com/S-Sankar02/IOT)**
-<br/><img src="https://img.shields.io/badge/IoT-00C9FF?style=flat-square&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/github/languages/top/S-Sankar02/IOT?style=flat-square&color=00C9FF&labelColor=0D1117"/> <img src="https://img.shields.io/github/last-commit/S-Sankar02/IOT?style=flat-square&color=00FF87&labelColor=0D1117"/>
 
 Real-time water level monitoring system.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-→-0061FF?style=flat-square&logoColor=white)](https://github.com/S-Sankar02/IOT)
 
 </td>
 <td width="50%" valign="top">
@@ -147,6 +170,8 @@ Real-time water level monitoring system.
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF87,100:0061FF&height=3&width=1000" width="100%"/>
 
 ## &nbsp;📜&nbsp; Certifications & Learning
 
@@ -209,4 +234,3 @@ Real-time water level monitoring system.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:00C9FF,100:0061FF&height=120&section=footer" width="100%"/>
 
 </div>
-
